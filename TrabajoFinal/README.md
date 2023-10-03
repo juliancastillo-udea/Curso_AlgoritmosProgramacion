@@ -12,8 +12,6 @@
 <a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a>
 </div>
 <br>
-
-
 **El presente curso hace parte de la Ingeniería Industrial de la Universidad de Antioquia.**
 
 ---
