@@ -1,6 +1,6 @@
 <img alt="UdeA" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/archive/f/fb/20161010213812%21Escudo-UdeA.svg" align="left" hspace="10px" vspace="0px">
 <img alt="CC" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" align="right" hspace="0px" vspace="0px">
-<br><br>
+<br><br><br><br><br><br>
 <h1 align="center"><b> Trabajo Final </b></h1>
 <hr size=10 noshade color="green">
 <img alt="Attribution" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" align="left" hspace="0px" vspace="0px">
