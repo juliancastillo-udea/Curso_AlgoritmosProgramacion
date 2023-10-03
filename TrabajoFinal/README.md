@@ -1,23 +1,16 @@
-<p><img alt="UdeA" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/archive/f/fb/20161010213812%21Escudo-UdeA.svg" align="left" hspace="10px" vspace="0px"></p>
+<img alt="UdeA" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/archive/f/fb/20161010213812%21Escudo-UdeA.svg" align="left" hspace="10px" vspace="0px">
 <img alt="CC" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" align="right" hspace="0px" vspace="0px">
 <br><br>
-<p>
 <h1><center><b> TRabajo Final </b></center></h1>
-<br><br>
 <hr size=10 noshade color="green">
-</p>
-<p>
 <img alt="CC" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="Attribution" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/nc.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="NC" height="70px" src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="SA" height="70px" src="https://creativecommons.org//wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-logo" align="left" hspace="0px" vspace="0px">
-</p>
-
 <div align="right">
 <h2> <b> Por: Julián Andrés Castillo G. </b> </h2>
 <a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a>
 </div>
-
 <br>
 
 **El presente curso hace parte de la Ingeniería Industrial de la Universidad de Antioquia.**
